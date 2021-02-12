@@ -1,0 +1,13 @@
+C:\Users\paulf\source\repos\Station\Station\bin\Debug\Station.exe.config
+C:\Users\paulf\source\repos\Station\Station\bin\Debug\Station.exe
+C:\Users\paulf\source\repos\Station\Station\bin\Debug\Station.pdb
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.csprojAssemblyReference.cache
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.Form1.resources
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.Form2.resources
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.Properties.Resources.resources
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.csproj.GenerateResource.cache
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.csproj.CoreCompileInputs.cache
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.exe
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.pdb
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.Form3.resources
+C:\Users\paulf\source\repos\Station\Station\obj\Debug\Station.Form4.resources
